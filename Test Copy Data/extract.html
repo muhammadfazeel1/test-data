@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web App 1 - Extract Data</title>
+</head>
+<body>
+
+<h1>Web App 1: Extract Data</h1>
+
+<form id="userForm">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" value="John Doe"><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" value="john@example.com"><br><br>
+
+    <label for="phone">Phone:</label><br>
+    <input type="tel" id="phone" name="phone" value="+1234567890"><br><br>
+
+    <label for="phone">Time:</label><br>
+    <input type="text" id="time" name="time" value="4:42 pm"><br><br>
+
+    <button type="button" id="extractDataBtn">Extract Data</button>
+</form>
+
+<script>
+    document.getElementById('extractDataBtn').addEventListener('click', () => {
+        const name = document.getElementById('name').value;
+        const email = document.getElementById('email').value;
+        const phone = document.getElementById('phone').value;
+
+        // Store data in localStorage
+        localStorage.setItem('name', name);
+        localStorage.setItem('email', email);
+        localStorage.setItem('phone', phone);
+
+        alert(`Data Extracted: \nName: ${name}, \nEmail: ${email}, \nPhone: ${phone}`);
+    });
+</script>
+
+</body>
+</html>

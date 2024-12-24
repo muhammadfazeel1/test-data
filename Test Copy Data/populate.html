@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web App 2 - Populate Data</title>
+</head>
+<body>
+
+<h1>Web App 2: Populate Data</h1>
+
+<form id="userForm">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" value=""><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" value=""><br><br>
+
+    <label for="phone">Phone:</label><br>
+    <input type="tel" id="phone" name="phone" value=""><br><br>
+
+    <label for="phone">Time:</label><br>
+    <input type="text" id="time" name="time" value=""><br><br>
+
+    <button type="button" id="populateDataBtn">Populate Data</button>
+</form>
+
+<script>
+    document.getElementById('populateDataBtn').addEventListener('click', () => {
+        const name = localStorage.getItem('name');
+        const email = localStorage.getItem('email');
+        const phone = localStorage.getItem('phone');
+
+        document.getElementById('name').value = name;
+        document.getElementById('email').value = email;
+        document.getElementById('phone').value = phone;
+
+        alert(`Data Populated: \nName: ${name}, \nEmail: ${email}, \nPhone: ${phone}`);
+    });
+</script>
+
+</body>
+</html>

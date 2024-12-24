@@ -1,0 +1,38 @@
+Dear Mohammad,
+
+Thank you for taking the time to discuss.
+
+Kindly review and confirm the following information in order to proceed.
+
+OPERATOR (Backend) Requirements:
+
+List of Departments:
+Provide the list of departments that need to be created in the system (e.g., HR, Finance, etc.).
+For each department, specify the department head who will oversee that area.
+Department Structure and Access Levels:
+Department Head (Level 1):
+There can be only one department head for each department.
+The department head will have visibility and access to all requests related to their department. (The department head will have access to all requests assigned to operators within their department.)
+Operators (Level 2):
+Multiple operators can be assigned within each department.
+Operators will only have access to the requests specifically assigned to them by the department head. (Operator will have access to requests which are assigned to them from workflow steps & incase they have some issue they can assign it to their supervisor)
+Sub-Operators (Levels 3, 4, etc.):
+Multiple sub-operators can exist at various levels within the hierarchy.
+Sub-operators will only have visibility over the requests that are assigned to them by a higher-level user (e.g., an operator or department head). (Sub Operator will have access to requests which are assigned to them from workflow steps & incase they have some issue they can assign it to their supervisor)
+Role Names:
+Each department head, operator, and sub-operator should have a designated role name. (For department head Role name is fixed as Department head in system,  but operator should have designated role name )
+This role name is primarily for labeling purposes and is only descriptive; it does not have any functional significance beyond identification within the system.
+Workflow Operators:
+For each workflow within the system, we need to identify the specific operator responsible for each step.
+The designated operator will handle the assigned step within that workflow.
+Requester (FRONT-END) Requirements:
+
+You have created the following roles for requester who will submit requests through the system:
+
+Business: This role will be assigned to subsidiaries (for example StaffCo, etc..), granting them access specific business services as applicants.
+PSC: This role will be assigned to the PSC, granting them access to all business & individual services as applicants.
+HR: This role will be assigned to the NEOM HR department, enabling them to access specific services as applicants.
+Employee: This role will be assigned to individuals, allowing them to access services relevant to individuals as applicants.
+Kind regards.
+
+Bara’
