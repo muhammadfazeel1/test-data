@@ -1,0 +1,6517 @@
+[{
+  "_id": {
+    "$oid": "6880b54fdc530c937f776a70"
+  },
+  "service": {
+    "$oid": "68807f352174f8052ef0ab27"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T10:11:27.606Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f352174f8052ef0ab0d"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T10:11:27.613Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c6f5d90-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T10:11:27.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T10:11:27.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880b5c5dc530c937f776dce"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T10:13:25.311Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T10:13:25.318Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T10:13:25.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T10:13:25.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880b5fddc530c937f777114"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T10:14:21.227Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T10:14:21.232Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6729d33cff91830b9d79a9b8"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T10:14:21.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T10:14:21.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880ba46dc530c937f779e88"
+  },
+  "service": {
+    "$oid": "6880ba1ddc530c937f779acb"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-23T10:32:38.680Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "6864c9197c61e4e15f77d5dd"
+      }
+    ],
+    "startTime": {
+      "$date": "2025-07-23T10:34:16.856Z"
+    },
+    "note": "asd asd"
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "SAMPLE",
+      "document": "943cc140-67b0-11f0-80e6-19b16e8198f4.pdf",
+      "workflowDetails": {
+        "_id": "6880b78fdc530c937f779384",
+        "name": "Prod Test Workflow",
+        "nameAr": "Prod Test Workflow"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880b78fdc530c937f779384"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T10:32:38.685Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "b42529aa-1b95-4e1b-96d8-2854fab505c1",
+  "subForms": [
+    {
+      "step": {
+        "$oid": "6880b8fddc530c937f7795d2"
+      },
+      "submittedBy": {
+        "$oid": "6864c9197c61e4e15f77d5dd"
+      },
+      "data": [
+        {
+          "component": {
+            "key": "radiobuttonmdftk9rswcuqbkq198",
+            "type": "radiobutton",
+            "title": "Please select Option"
+          },
+          "value": {
+            "selectedValue": "No"
+          }
+        }
+      ],
+      "attachments": [],
+      "handlers": [],
+      "_id": {
+        "$oid": "6880ba8adc530c937f77a09b"
+      },
+      "createdAt": {
+        "$date": "2025-07-23T10:33:46.602Z"
+      },
+      "updatedAt": {
+        "$date": "2025-07-23T10:33:46.602Z"
+      }
+    }
+  ],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T10:32:38.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T10:34:16.859Z"
+  },
+  "__v": 2,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-23T10:33:21.864Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_autocompletemdfto4p3i240xarg6": {
+      "selectedValue": "304",
+      "otherVal": "",
+      "selectedLabel": "Pakistan",
+      "others": false
+    },
+    "reqService_relationalautocompletemdftpfnqmdeeqt1mrxd": {
+      "selectedValue": "66c5e96a7b8253c6d4f9912a",
+      "selectedLabel": "Algeria",
+      "selectedChildValue": "6864eaa3876a6ac771bf99d4",
+      "selectedChildLabel": "Algeria"
+    },
+    "reqService_COST_CENTER_dataFetchingmdftqd1ikq7s4n2q1n8": "dda0745785b39150baed9e0d58122c13"
+  },
+  "uid": "TEST-10332186",
+  "currentStep": {
+    "$oid": "6880b912dc530c937f779673"
+  },
+  "previousStep": {
+    "$oid": "6880b912dc530c937f779668"
+  },
+  "dateCompleted": {
+    "$date": "2025-07-23T10:34:16.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bb86dc530c937f77a4b2"
+  },
+  "service": {
+    "$oid": "68807f772174f8052ef0ae18"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T10:37:58.725Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f772174f8052ef0adbe"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T10:37:58.731Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7b6b80-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T10:37:58.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T10:37:58.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880c23f16ab9a0aad6b0790"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T11:06:39.755Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:06:39.764Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:06:39.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:06:39.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880c24916ab9a0aad6b0bc7"
+  },
+  "service": {
+    "$oid": "68807f772174f8052ef0ae18"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T11:06:49.580Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f772174f8052ef0adbe"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:06:49.586Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7b6b80-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:06:49.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:06:49.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880c26016ab9a0aad6b1aa3"
+  },
+  "service": {
+    "$oid": "6880863cce9c376ce2bad028"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T11:07:12.534Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880863cce9c376ce2bad00e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:07:12.542Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "672c65452f7f74f15e9d3f7d"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c726ad0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:07:12.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:07:12.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880c36116ab9a0aad6b1f29"
+  },
+  "service": {
+    "$oid": "6880c35616ab9a0aad6b1baf"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 201,
+  "dateCreated": {
+    "$date": "2025-07-23T11:11:29.543Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "6880b8c3dc530c937f779507"
+      }
+    ],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "handledByDisplay": "Test Dpt",
+    "startTime": {
+      "$date": "2025-07-23T11:11:41.262Z"
+    }
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880b78fdc530c937f779384"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:11:29.548Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "b42529aa-1b95-4e1b-96d8-2854fab505c1",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:11:29.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:11:41.264Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-23T11:11:41.203Z"
+  },
+  "documents": {
+    "reqService_documentsmdfv50a0eewetdp4pz": [
+      {
+        "label": "",
+        "document": "file-1753269101213-eqyi788o.pdf",
+        "file": {
+          "path": "./file-sample_150kB.pdf",
+          "relativePath": "./file-sample_150kB.pdf"
+        },
+        "id": "documentmdfv5h538vj415z5t2m",
+        "size": 142786,
+        "name": "file-sample_150kB.pdf"
+      }
+    ]
+  },
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_autocompletemdfto4p3i240xarg6": {
+      "selectedValue": "502",
+      "otherVal": "",
+      "selectedLabel": "Albania",
+      "others": false
+    },
+    "reqService_documentsmdfv50a0eewetdp4pz": {
+      "document": {
+        "path": "./file-sample_150kB.pdf",
+        "relativePath": "./file-sample_150kB.pdf"
+      },
+      "label": "",
+      "name": "file-sample_150kB.pdf",
+      "id": "documentmdfv5h538vj415z5t2m"
+    }
+  },
+  "uid": "TEST-11114120",
+  "currentStep": {
+    "$oid": "6880b8fddc530c937f7795d2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880c8da16ab9a0aad6b5218"
+  },
+  "service": {
+    "$oid": "68808530ce9c376ce2bac503"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T11:34:50.461Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68808530ce9c376ce2bac4db"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:34:50.468Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "18a518df-10a9-458e-a324-a77ccf9fded8",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:34:50.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:34:50.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880cebc16ab9a0aad6b63f9"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T11:59:56.810Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T11:59:56.816Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T11:59:56.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T11:59:56.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880ced016ab9a0aad6b6483"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T12:00:16.452Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T12:00:16.458Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T12:00:16.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T12:00:16.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880ced916ab9a0aad6b6845"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T12:00:25.020Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T12:00:25.026Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T12:00:25.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T12:00:25.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880ceee16ab9a0aad6b68d2"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T12:00:46.462Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T12:00:46.467Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T12:00:46.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T12:00:46.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880db7a16ab9a0aad6b78c5"
+  },
+  "service": {
+    "$oid": "6880c35616ab9a0aad6b1baf"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-23T12:54:18.235Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880b78fdc530c937f779384"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T12:54:18.240Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "b42529aa-1b95-4e1b-96d8-2854fab505c1",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T12:54:18.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T12:54:18.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880dba016ab9a0aad6b7d93"
+  },
+  "service": {
+    "$oid": "6880db9816ab9a0aad6b7a07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 201,
+  "dateCreated": {
+    "$date": "2025-07-23T12:54:56.305Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "6880b8c3dc530c937f779507"
+      }
+    ],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "handledByDisplay": "Test Dpt",
+    "startTime": {
+      "$date": "2025-07-23T12:56:49.228Z"
+    }
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880b78fdc530c937f779384"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-23T12:54:56.311Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "b42529aa-1b95-4e1b-96d8-2854fab505c1",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-23T12:54:56.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T12:56:49.229Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-23T12:56:49.123Z"
+  },
+  "documents": {
+    "reqService_documentsmdfv50a0eewetdp4pz": [
+      {
+        "label": "",
+        "document": "file-1753275409127-wtht7obw.pdf",
+        "file": {
+          "path": "./_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf",
+          "relativePath": "./_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf"
+        },
+        "id": "documentmdfyug1qx9ldp4rnp0q",
+        "size": 6667164,
+        "name": "_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf"
+      }
+    ]
+  },
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_autocompletemdfto4p3i240xarg6": {
+      "selectedValue": "301",
+      "otherVal": "",
+      "selectedLabel": "Afghanistan",
+      "others": false
+    },
+    "reqService_documentsmdfv50a0eewetdp4pz": {
+      "document": {
+        "path": "./_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf",
+        "relativePath": "./_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf"
+      },
+      "label": "",
+      "name": "_anonymous_files_services_d1a04940-609d-11f0-b409-89c84ec81f7a.pdf",
+      "id": "documentmdfyug1qx9ldp4rnp0q"
+    }
+  },
+  "uid": "TEST-12564912",
+  "currentStep": {
+    "$oid": "6880b8fddc530c937f7795d2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6882149416ab9a0aad6c0677"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T11:10:12.124Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T11:10:12.130Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T11:10:12.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T11:10:12.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688214ac16ab9a0aad6c0b3f"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T11:10:36.616Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T11:10:36.621Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T11:10:36.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T11:10:36.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6882158d16ab9a0aad6c0d05"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T11:14:21.525Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T11:14:21.532Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6728843477382b26cc7cc61c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T11:14:21.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T11:14:21.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68821a3316ab9a0aad6c50e1"
+  },
+  "service": {
+    "$oid": "68807f772174f8052ef0ae18"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T11:34:11.875Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f772174f8052ef0adbe"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T11:34:11.883Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7b6b80-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T11:34:11.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T11:34:11.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6882297316ab9a0aad6da3b8"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T12:39:15.726Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T12:39:15.734Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T12:39:15.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T12:39:15.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688229ca16ab9a0aad6dc205"
+  },
+  "service": {
+    "$oid": "68808893ce9c376ce2badbcf"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T12:40:42.125Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68808893ce9c376ce2badba6"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T12:40:42.130Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "799cce28-a3ef-4b18-8846-310c5810645b",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T12:40:42.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T12:40:42.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68826d2802c973181a41df26"
+  },
+  "service": {
+    "$oid": "68807f352174f8052ef0ab27"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T17:28:08.804Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f352174f8052ef0ab0d"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T17:28:08.811Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c6f5d90-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T17:28:08.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T17:28:08.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68826d3d02c973181a41df97"
+  },
+  "service": {
+    "$oid": "68807f5b2174f8052ef0ac21"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T17:28:29.808Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f5b2174f8052ef0abf9"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T17:28:29.815Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7c07c0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T17:28:29.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T17:28:29.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68826d5b02c973181a41e5fa"
+  },
+  "service": {
+    "$oid": "68807f772174f8052ef0ae18"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T17:28:59.062Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f772174f8052ef0adbe"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T17:28:59.069Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7b6b80-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T17:28:59.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T17:28:59.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68826d7102c973181a41f423"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-24T17:29:21.364Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-24T17:29:21.372Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68826c4502c973181a41b2e5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-24T17:29:21.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T17:29:21.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885c4f402c973181a4250d7"
+  },
+  "service": {
+    "$oid": "6880854bce9c376ce2bac69d"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T06:19:32.491Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880854bce9c376ce2bac677"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T06:19:32.497Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "547386a6-0716-4292-9072-370ee60a0d69",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T06:19:32.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T06:19:32.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885c99402c973181a427c81"
+  },
+  "service": {
+    "$oid": "6880854bce9c376ce2bac69d"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885c79502c973181a4251a5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T06:39:16.181Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880854bce9c376ce2bac677"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T06:39:16.188Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885c79502c973181a4251a5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "547386a6-0716-4292-9072-370ee60a0d69",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T06:39:16.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T06:39:16.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885cc2902c973181a43198e"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885cbcf02c973181a42d32b"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 400,
+  "dateCreated": {
+    "$date": "2025-07-27T06:50:17.655Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "68663509168667bccc84fded"
+      }
+    ],
+    "startTime": {
+      "$date": "2025-07-27T07:52:30.951Z"
+    },
+    "note": "Invalid request type. Since you're outside KSA, visa should be extended."
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T06:50:17.662Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885cbcf02c973181a42d32b"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T06:50:17.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T07:52:30.954Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T07:03:16.808Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlyla14an4h6ckb2rj0l": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd7"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of issuing this visa.",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd8"
+        },
+        {
+          "name": "I don't have a active exit re-entry visa, if so please cancel prior to the request of issuing this visa ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "visaInformationlyl99d8emroh2igol6",
+            "travelInformationmde9rc3ttmhbexrpyq"
+          ],
+          "_id": "6693886768e9b8dfce8a5cd9"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyr87bz1r54i4976jdc": "68820f4ef710897f8197d7d8",
+    "reqService_dropdownlistm1626hlmww09c16x84o": {
+      "selectedValue": "Personal travel",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_dropdownlistm1626wmisp6q3pnjny": {
+      "selectedValue": "Multiple",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_datemde9fmtuhp5rgihcglj": "2025-07-27T04:07:07.000Z",
+    "reqService_datemde9h45j6rsocryxkw": "2025-10-21T04:07:07.000Z",
+    "reqService_datemde9holemqw7dw99ac": "2028-11-09T04:07:07.000Z",
+    "reqService_dropdownlistm16243f9gryxzjbehtu": {
+      "selectedValue": "30",
+      "otherVal": "",
+      "others": false
+    }
+  },
+  "uid": "EREVI-07031680",
+  "currentStep": {
+    "$oid": "688084a5ce9c376ce2babbf3"
+  },
+  "dateCompleted": {
+    "$date": "2025-07-27T07:52:30.951Z"
+  },
+  "previousStep": {
+    "$oid": "688084a5ce9c376ce2babbed"
+  }
+},
+{
+  "_id": {
+    "$oid": "6885d8fb02c973181a447c10"
+  },
+  "service": {
+    "$oid": "68808584ce9c376ce2bac8c6"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885d88002c973181a44428c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T07:44:59.870Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68808584ce9c376ce2bac89e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T07:44:59.875Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885d88002c973181a44428c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c735530-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T07:44:59.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T07:44:59.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885dbda02c973181a44c317"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T07:57:14.186Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T07:57:14.192Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T07:57:14.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T07:57:14.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885dc1502c973181a44e30c"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 400,
+  "dateCreated": {
+    "$date": "2025-07-27T07:58:13.176Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "6885c2de02c973181a423d16"
+      }
+    ],
+    "startTime": {
+      "$date": "2025-07-27T08:13:27.591Z"
+    },
+    "note": "Invalid request. Visa cannot be extended while you're in KSA "
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T07:58:13.181Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [
+    {
+      "methodCallFrom": "Requestor",
+      "error": {
+        "message": "Request failed with status code 403",
+        "name": "AxiosError",
+        "stack": "AxiosError: Request failed with status code 403\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+        "config": {
+          "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+          },
+          "adapter": [
+            "xhr",
+            "http"
+          ],
+          "transformRequest": [
+            null
+          ],
+          "transformResponse": [
+            null
+          ],
+          "timeout": 0,
+          "xsrfCookieName": "XSRF-TOKEN",
+          "xsrfHeaderName": "X-XSRF-TOKEN",
+          "maxContentLength": -1,
+          "maxBodyLength": -1,
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json",
+            "app-id": "0bbd7acf",
+            "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+            "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYwNDUyN30.clscqI49-EIwE2Y4evDVlBh1lX3f9iITZTK0M0xOna4oJMsiLv_mMU0VnlZjKDDncDybZQ8WYbkNwWR2TJ7YyQ",
+            "User-Agent": "axios/1.6.0",
+            "Content-Length": "71",
+            "Accept-Encoding": "gzip, compress, deflate, br"
+          },
+          "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/extend",
+          "method": "post",
+          "data": "{\"iqamaNumber\":\"2530762372\",\"visaNumber\":\"198248131\",\"visaDuration\":30}"
+        },
+        "code": "ERR_BAD_REQUEST",
+        "status": 403
+      },
+      "loggedTime": {
+        "$date": "2025-07-24T16:54:06.374Z"
+      },
+      "_id": {
+        "$oid": "6885de2c02c973181a44e390"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-27T07:58:13.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:13:27.592Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T08:07:06.426Z"
+  },
+  "documents": {
+    "groupmd5mv33ieivs9dfpefb": [
+      {
+        "label": "",
+        "document": "file-1753603627443-x0f8tt5b.pdf",
+        "file": {
+          "path": "./2530762372-visa-198248131.pdf",
+          "relativePath": "./2530762372-visa-198248131.pdf"
+        },
+        "id": "documentmdleakvmte2xm54ibpi",
+        "size": 187351,
+        "name": "2530762372-visa-198248131.pdf"
+      }
+    ],
+    "groupmd5mvhqyhk1l3pq0off": [
+      {
+        "label": "",
+        "document": "file-1753603627462-2tfsexml.pdf",
+        "file": {
+          "path": "./muqeem-info-2530762372.pdf",
+          "relativePath": "./muqeem-info-2530762372.pdf"
+        },
+        "id": "documentmdle9j9ae8d242qb5cv",
+        "size": 132007,
+        "name": "muqeem-info-2530762372.pdf"
+      }
+    ]
+  },
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_dropdownlistm1517ig5y51re2jvzks": {
+      "selectedValue": "No",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_checkboxlymlf5bkk466a2nm33n": {
+      "valArr": [
+        {
+          "name": "I am currently outside Saudi Arabia",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6694c208f670bd8edca7bb0d"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of extending the visa.",
+          "nameAr": "I confirm I have paid all traffic violations prior to the request of extending the visa.",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "employeeDetailsVisaly1bf8c7a3ur2pxz1jw"
+          ],
+          "_id": "66e988e219d028a601b2e5cd"
+        }
+      ],
+      "otherVal": ""
+    },
+    "grouplymm3tv06tqp6ckf554": {
+      "selectedValue": "30",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyprby0cfbobvkxgr2g": "68820f4ef710897f8197d5af",
+    "grouplymm38t4rgznc8nz81m": "198248131",
+    "grouplymm4avg2oxsbu2okq7": "Please extend my Exit Re-Entry to access KSA. Thanks",
+    "groupmd5mv33ieivs9dfpefb": {
+      "document": {
+        "path": "./2530762372-visa-198248131.pdf",
+        "relativePath": "./2530762372-visa-198248131.pdf"
+      },
+      "label": "",
+      "name": "2530762372-visa-198248131.pdf",
+      "id": "documentmdleakvmte2xm54ibpi"
+    },
+    "groupmd5mvhqyhk1l3pq0off": {
+      "document": {
+        "path": "./muqeem-info-2530762372.pdf",
+        "relativePath": "./muqeem-info-2530762372.pdf"
+      },
+      "label": "",
+      "name": "muqeem-info-2530762372.pdf",
+      "id": "documentmdle9j9ae8d242qb5cv"
+    }
+  },
+  "uid": "VEREX-08070642",
+  "currentStep": {
+    "$oid": "6880849cce9c376ce2babb7a"
+  },
+  "dateCompleted": {
+    "$date": "2025-07-27T08:13:27.591Z"
+  },
+  "previousStep": {
+    "$oid": "6880849cce9c376ce2babb72"
+  }
+},
+{
+  "_id": {
+    "$oid": "6885e17e02c973181a459694"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 201,
+  "dateCreated": {
+    "$date": "2025-07-27T08:21:18.608Z"
+  },
+  "status": {
+    "handledBy": [
+      {
+        "$oid": "686636b0168667bccc84fe19"
+      },
+      {
+        "$oid": "68663509168667bccc84fded"
+      },
+      {
+        "$oid": "686636ea168667bccc84fe41"
+      },
+      {
+        "$oid": "686634b7168667bccc84fdc8"
+      },
+      {
+        "$oid": "686633e0168667bccc84fd41"
+      }
+    ],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "handledByDisplay": "Unassigned",
+    "startTime": {
+      "$date": "2025-07-27T08:25:31.775Z"
+    }
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T08:21:18.612Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [
+    {
+      "methodCallFrom": "Requestor",
+      "error": {
+        "message": "Request failed with status code 403",
+        "name": "AxiosError",
+        "stack": "AxiosError: Request failed with status code 403\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+        "config": {
+          "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+          },
+          "adapter": [
+            "xhr",
+            "http"
+          ],
+          "transformRequest": [
+            null
+          ],
+          "transformResponse": [
+            null
+          ],
+          "timeout": 0,
+          "xsrfCookieName": "XSRF-TOKEN",
+          "xsrfHeaderName": "X-XSRF-TOKEN",
+          "maxContentLength": -1,
+          "maxBodyLength": -1,
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json",
+            "app-id": "0bbd7acf",
+            "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+            "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYwNTYzMX0.fpvh4xnraX3kBGhEdzCWoRDTC9auxhrWaoAtZHpMI-1jTeCo5li21z9F5ABYy4X59AHJxEyJ56pqkOgufPvqow",
+            "User-Agent": "axios/1.6.0",
+            "Content-Length": "71",
+            "Accept-Encoding": "gzip, compress, deflate, br"
+          },
+          "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/extend",
+          "method": "post",
+          "data": "{\"iqamaNumber\":\"2581333271\",\"visaNumber\":\"201064592\",\"visaDuration\":30}"
+        },
+        "code": "ERR_BAD_REQUEST",
+        "status": 403
+      },
+      "loggedTime": {
+        "$date": "2025-07-24T16:54:06.374Z"
+      },
+      "_id": {
+        "$oid": "6885e27b02c973181a464b03"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-27T08:21:18.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:25:31.776Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T08:25:31.057Z"
+  },
+  "documents": {
+    "groupmd5mv33ieivs9dfpefb": [
+      {
+        "label": "",
+        "document": "file-1753604731115-u2skrsei.pdf",
+        "file": {
+          "path": "./2581333271-visa-201064592.pdf",
+          "relativePath": "./2581333271-visa-201064592.pdf"
+        },
+        "id": "documentmdlez2myvnym6gljls8",
+        "size": 187313,
+        "name": "2581333271-visa-201064592.pdf"
+      }
+    ],
+    "groupmd5mvhqyhk1l3pq0off": [
+      {
+        "label": "",
+        "document": "file-1753604731149-gxx02kq9.pdf",
+        "file": {
+          "path": "./muqeem-info-2581333271.pdf",
+          "relativePath": "./muqeem-info-2581333271.pdf"
+        },
+        "id": "documentmdlez85ujyyzxs3pov",
+        "size": 107303,
+        "name": "muqeem-info-2581333271.pdf"
+      }
+    ]
+  },
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_dropdownlistm1517ig5y51re2jvzks": {
+      "selectedValue": "No",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_checkboxlymlf5bkk466a2nm33n": {
+      "valArr": [
+        {
+          "name": "I am currently outside Saudi Arabia",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6694c208f670bd8edca7bb0d"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of extending the visa.",
+          "nameAr": "I confirm I have paid all traffic violations prior to the request of extending the visa.",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "employeeDetailsVisaly1bf8c7a3ur2pxz1jw"
+          ],
+          "_id": "66e988e219d028a601b2e5cd"
+        }
+      ],
+      "otherVal": ""
+    },
+    "grouplymm3tv06tqp6ckf554": {
+      "selectedValue": "30",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyprby0cfbobvkxgr2g": "68820f4ef710897f8197d7d8",
+    "grouplymm38t4rgznc8nz81m": "201064592",
+    "grouplymm4avg2oxsbu2okq7": "I am at the airport and need my exit and re-entry visa renewed please.",
+    "groupmd5mv33ieivs9dfpefb": {
+      "document": {
+        "path": "./2581333271-visa-201064592.pdf",
+        "relativePath": "./2581333271-visa-201064592.pdf"
+      },
+      "label": "",
+      "name": "2581333271-visa-201064592.pdf",
+      "id": "documentmdlez2myvnym6gljls8"
+    },
+    "groupmd5mvhqyhk1l3pq0off": {
+      "document": {
+        "path": "./muqeem-info-2581333271.pdf",
+        "relativePath": "./muqeem-info-2581333271.pdf"
+      },
+      "label": "",
+      "name": "muqeem-info-2581333271.pdf",
+      "id": "documentmdlez85ujyyzxs3pov"
+    }
+  },
+  "uid": "VEREX-08253105",
+  "currentStep": {
+    "$oid": "6880849cce9c376ce2babb72"
+  }
+},
+{
+  "_id": {
+    "$oid": "6885e50602c973181a469855"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T08:36:22.025Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T08:36:22.030Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T08:36:22.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:36:22.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885e68b02c973181a46b013"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T08:42:51.530Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Request completed Successfully. Please find attached Exit Re-entry pdf file."
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "Exit Re-Entry Visa Issuance",
+      "document": "7de20a40-6ac6-11f0-8f77-1f3f362493e6.pdf",
+      "workflowDetails": {
+        "_id": {
+          "$oid": "688084a5ce9c376ce2babbd7"
+        },
+        "name": "Exit Re-Entry Visa Issuance",
+        "nameAr": "تأشيرة خروج وعودة"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": true,
+    "ratingTime": {
+      "$date": "2025-07-27T08:49:27.877Z"
+    },
+    "stars": 5
+  },
+  "initiatedBy": {
+    "$oid": "6885dbc702c973181a44b0c0"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T08:42:51.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:49:27.877Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T08:48:37.178Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "UMESH SHRESTHA"
+    },
+    {
+      "label": "Translated Resident Name",
+      "labelAr": "اسم المقيم المترجم",
+      "value": "ميش سيريشتا"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2544895291"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "201133105"
+    },
+    {
+      "label": "Visa Type",
+      "labelAr": "نوع التأشيرة",
+      "value": "متعدد"
+    },
+    {
+      "label": "Visa Duration",
+      "labelAr": "مدة التأشيرة",
+      "value": 180
+    },
+    {
+      "label": "Visa Return Before (Hijri)",
+      "labelAr": "العودة قبل (هجري)",
+      "value": "N/A"
+    },
+    {
+      "label": "Visa Return Before (Gregorian)",
+      "labelAr": "العودة قبل (ميلادي)",
+      "value": "N/A"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlyla14an4h6ckb2rj0l": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd7"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of issuing this visa.",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd8"
+        },
+        {
+          "name": "I don't have a active exit re-entry visa, if so please cancel prior to the request of issuing this visa ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "visaInformationlyl99d8emroh2igol6",
+            "travelInformationmde9rc3ttmhbexrpyq"
+          ],
+          "_id": "6693886768e9b8dfce8a5cd9"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyr87bz1r54i4976jdc": "68820f4ef710897f8197d0de",
+    "reqService_dropdownlistm1626hlmww09c16x84o": {
+      "selectedValue": "Personal travel",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_dropdownlistm1626wmisp6q3pnjny": {
+      "selectedValue": "Multiple",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_datemde9fmtuhp5rgihcglj": "2025-07-27T04:07:07.000Z",
+    "reqService_datemde9h45j6rsocryxkw": "2025-08-28T04:07:07.000Z",
+    "reqService_datemde9holemqw7dw99ac": "2031-04-06T04:07:07.000Z",
+    "reqService_dropdownlistm16243f9gryxzjbehtu": {
+      "selectedValue": "180",
+      "otherVal": "",
+      "others": false
+    }
+  },
+  "uid": "EREVI-08483717",
+  "currentStep": {
+    "$oid": "688084a5ce9c376ce2babbf5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6885ec5e02c973181a472bd5"
+  },
+  "service": {
+    "$oid": "68808aa9ce9c376ce2baecb4"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T09:07:42.947Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68808aa9ce9c376ce2baec8a"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T09:07:42.954Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "33ba85f5-3886-4d39-a04c-31ab6ed92a02",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T09:07:42.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T09:07:42.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860cf002c973181a4807d7"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68860c6102c973181a47f2c8"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T11:26:40.860Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Request completed Successfully. Please find attached Exit Re-entry pdf file."
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "Exit Re-Entry Visa Issuance",
+      "document": "e87163e0-6adc-11f0-8f77-1f3f362493e6.pdf",
+      "workflowDetails": {
+        "_id": {
+          "$oid": "688084a5ce9c376ce2babbd7"
+        },
+        "name": "Exit Re-Entry Visa Issuance",
+        "nameAr": "تأشيرة خروج وعودة"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:26:40.866Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68860c6102c973181a47f2c8"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:26:40.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:29:07.439Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T11:29:04.519Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "GEORGIOS OR GEORGE PHI LIPPAKOPOULOS"
+    },
+    {
+      "label": "Translated Resident Name",
+      "labelAr": "اسم المقيم المترجم",
+      "value": "جورجيوس رو جورج بي ليباكوبولوس"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2535536532"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "201140325"
+    },
+    {
+      "label": "Visa Type",
+      "labelAr": "نوع التأشيرة",
+      "value": "متعدد"
+    },
+    {
+      "label": "Visa Duration",
+      "labelAr": "مدة التأشيرة",
+      "value": 90
+    },
+    {
+      "label": "Visa Return Before (Hijri)",
+      "labelAr": "العودة قبل (هجري)",
+      "value": "N/A"
+    },
+    {
+      "label": "Visa Return Before (Gregorian)",
+      "labelAr": "العودة قبل (ميلادي)",
+      "value": "N/A"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlyla14an4h6ckb2rj0l": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd7"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of issuing this visa.",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd8"
+        },
+        {
+          "name": "I don't have a active exit re-entry visa, if so please cancel prior to the request of issuing this visa ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "visaInformationlyl99d8emroh2igol6",
+            "travelInformationmde9rc3ttmhbexrpyq"
+          ],
+          "_id": "6693886768e9b8dfce8a5cd9"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyr87bz1r54i4976jdc": "68820f4ef710897f8197d3b5",
+    "reqService_dropdownlistm1626hlmww09c16x84o": {
+      "selectedValue": "Personal travel",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_dropdownlistm1626wmisp6q3pnjny": {
+      "selectedValue": "Multiple",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_datemde9fmtuhp5rgihcglj": "2025-09-04T04:07:07.000Z",
+    "reqService_datemde9h45j6rsocryxkw": "2025-12-31T04:07:07.000Z",
+    "reqService_datemde9holemqw7dw99ac": "2035-04-30T04:07:07.000Z",
+    "reqService_dropdownlistm16243f9gryxzjbehtu": {
+      "selectedValue": "90",
+      "otherVal": "",
+      "others": false
+    }
+  },
+  "uid": "EREVI-11290451",
+  "currentStep": {
+    "$oid": "688084a5ce9c376ce2babbf5"
+  }
+},
+{
+  "_id": {
+    "$oid": "68860e1002c973181a480d05"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68860c6102c973181a47f2c8"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:31:28.118Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:31:28.123Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68860c6102c973181a47f2c8"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:31:28.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:31:34.287Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T11:31:34.285Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_REQUESTED_FOR_dataFetchinglyocud2pkkcs97x3njl": "68820f4ef710897f8197d3b5",
+    "reqService_textsinglelinelyocv2o95gue1qbfft2": "201140325"
+  },
+  "uid": "REREV-11313428"
+},
+{
+  "_id": {
+    "$oid": "68860f2b02c973181a484240"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:36:11.141Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:36:11.145Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:36:11.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:36:19.190Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T11:36:19.188Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_REQUESTED_FOR_dataFetchinglyocud2pkkcs97x3njl": "68820f4ef710897f8197c5cb",
+    "reqService_textsinglelinelyocv2o95gue1qbfft2": "201140325"
+  },
+  "uid": "REREV-11361918"
+},
+{
+  "_id": {
+    "$oid": "68860f3902c973181a4845d0"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:36:25.882Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:36:25.887Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:36:25.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:36:25.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860fff02c973181a486177"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:39:43.449Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:39:43.453Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:39:43.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:40:11.838Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T11:40:11.837Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_REQUESTED_FOR_dataFetchinglyocud2pkkcs97x3njl": "68820f4ef710897f8197d3b5",
+    "reqService_textsinglelinelyocv2o95gue1qbfft2": "201140325"
+  },
+  "uid": "REREV-11401183"
+},
+{
+  "_id": {
+    "$oid": "6886102502c973181a4861df"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:40:21.649Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:40:21.653Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:40:21.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:40:21.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688610d702c973181a4886e6"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T11:43:19.660Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T11:43:19.665Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:43:19.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:43:19.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688610e602c973181a488bee"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T11:43:34.384Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Request completed successfully. Please find attached Exit Re-entry pdf file."
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "Exit Re-Entry Visa Validation",
+      "document": "f4b12760-6ade-11f0-8f77-1f3f362493e6.pdf",
+      "workflowDetails": {
+        "_id": {
+          "$oid": "688084aece9c376ce2babc93"
+        },
+        "name": "Check visa validity (Reprint visa info)",
+        "nameAr": "Check visa validity (Reprint visa info)"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": true,
+    "ratingTime": {
+      "$date": "2025-07-27T11:43:34.389Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T11:43:34.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:44:07.986Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T11:43:45.868Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "GEORGIOS OR GEORGE PHI LIPPAKOPOULOS"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2535536532"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "201140325"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_REQUESTED_FOR_dataFetchinglyocud2pkkcs97x3njl": "68820f4ef710897f8197d3b5",
+    "reqService_textsinglelinelyocv2o95gue1qbfft2": "201140325"
+  },
+  "uid": "REREV-11434586",
+  "currentStep": {
+    "$oid": "688084aece9c376ce2babc95"
+  }
+},
+{
+  "_id": {
+    "$oid": "688617fb02c973181a492040"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:13:47.507Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:13:47.520Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:13:47.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:13:47.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886184402c973181a4924d6"
+  },
+  "service": {
+    "$oid": "688084b8ce9c376ce2babd4a"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:15:00.347Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084b8ce9c376ce2babd35"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:15:00.352Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "cf94d570-a61e-42b4-bde1-cfdabd7207f7",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:15:00.353Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:15:00.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688619da02c973181a494d32"
+  },
+  "service": {
+    "$oid": "6880854bce9c376ce2bac69d"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:21:46.391Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880854bce9c376ce2bac677"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:21:46.396Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "547386a6-0716-4292-9072-370ee60a0d69",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:21:46.397Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:21:46.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861a2302c973181a49587d"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:22:59.170Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:22:59.174Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:22:59.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:22:59.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861a4102c973181a4958b0"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:23:29.351Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:23:29.356Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:23:29.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:23:29.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861ac002c973181a495d38"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:25:36.182Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:25:36.187Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:25:36.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:25:36.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861aee02c973181a4966e2"
+  },
+  "service": {
+    "$oid": "68807fab2174f8052ef0b35b"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:26:22.491Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807fab2174f8052ef0b30b"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:26:22.498Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "eba693f2-a365-4d51-a80c-b69ef66e44ea",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:26:22.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:26:22.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861be802c973181a497759"
+  },
+  "service": {
+    "$oid": "6880854bce9c376ce2bac69d"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:30:32.814Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880854bce9c376ce2bac677"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:30:32.819Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688226da16ab9a0aad6cfacf"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "547386a6-0716-4292-9072-370ee60a0d69",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:30:32.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:30:32.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861c5302c973181a4989fa"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T12:32:19.973Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T12:32:19.979Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:32:19.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:34:38.581Z"
+  },
+  "__v": 0,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T12:34:14.980Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": {},
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlyla14an4h6ckb2rj0l": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd7"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of issuing this visa.",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd8"
+        },
+        {
+          "name": "I don't have a active exit re-entry visa, if so please cancel prior to the request of issuing this visa ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "visaInformationlyl99d8emroh2igol6",
+            "travelInformationmde9rc3ttmhbexrpyq"
+          ],
+          "_id": "6693886768e9b8dfce8a5cd9"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyr87bz1r54i4976jdc": "68820f4ef710897f8197ceb3",
+    "reqService_dropdownlistm1626hlmww09c16x84o": {
+      "selectedValue": "Personal travel",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_dropdownlistm1626wmisp6q3pnjny": {
+      "selectedValue": "Multiple",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_datemde9fmtuhp5rgihcglj": "2025-07-31T04:07:07.000Z",
+    "reqService_datemde9h45j6rsocryxkw": "2025-08-17T04:07:07.000Z",
+    "reqService_datemde9holemqw7dw99ac": "2029-10-23T04:07:07.000Z",
+    "reqService_dropdownlistm16243f9gryxzjbehtu": {
+      "selectedValue": "60",
+      "otherVal": "",
+      "others": false
+    }
+  },
+  "uid": "EREVI-12341498"
+},
+{
+  "_id": {
+    "$oid": "68861cfc02c973181a498e3e"
+  },
+  "service": {
+    "$oid": "6880848dce9c376ce2babb13"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T12:35:08.977Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Your exit re entry visa has been cancelled."
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880848dce9c376ce2babaf2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": true,
+    "ratingTime": {
+      "$date": "2025-07-27T12:49:49.923Z"
+    },
+    "stars": 5
+  },
+  "initiatedBy": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c76b090-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:35:08.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:49:49.924Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T12:44:47.448Z"
+  },
+  "documents": {
+    "reqService_documentsmd4kb5pskvaz4cqvj6s": [
+      {
+        "label": "",
+        "document": "file-1753620550312-pcfihck0.pdf",
+        "file": {
+          "path": "./2533366791-visa-195125143.pdf",
+          "relativePath": "./2533366791-visa-195125143.pdf"
+        },
+        "id": "documentmdlocnrz27cp35ppl3yj",
+        "size": 187346,
+        "name": "2533366791-visa-195125143.pdf"
+      }
+    ]
+  },
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "RIMA HAPPY AHMED"
+    },
+    {
+      "label": "Translated Resident Name",
+      "labelAr": "اسم المقيم المترجم",
+      "value": "ريمة أبي أحمد"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2533366791"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "195125143"
+    },
+    {
+      "label": "Visa Status",
+      "labelAr": "حالة التأشيرة",
+      "value": "CANCELLED"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlymmimme8vxgfkf3vwf": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6694c871f670bd8edca7cc62"
+        },
+        {
+          "name": "I have an active Exit re-entry visa.",
+          "nameAr": "I have an active Exit re-entry visa.",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "66c45f43c0d6f48c073344fc"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of cancelling the visa.",
+          "nameAr": "I confirm I have paid all traffic violations prior to the request of cancelling the visa.",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "66e9866119d028a601b245c5"
+        },
+        {
+          "name": "My current Exit Re-Entry visa does not cover the dates of my upcoming travel. ",
+          "nameAr": "My current Exit Re-Entry visa does not cover the dates of my upcoming travel. ",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "employeeDetailsVisaly1aecs83jpkiy7m3im",
+            "acknowledgely1arjgvu4cca3iud1"
+          ],
+          "_id": "687652d5ee55ffed10469ae0"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_checkboxlypu380e86oh8huijx2": {
+      "valArr": [
+        {
+          "name": "I confirm that I will not be able to travel outside Saudi Arabia before I apply and receive approval for exit re-entry visa issuance.",
+          "nameAr": "I confirm that I will not be able to travel outside Saudi Arabia before I apply and receive approval for exit re-entry visa issuance.",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6697bc904317c97708921c9a"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglypqy8ngoy2vhu6nrhj": "68820f4ef710897f8197ceb3",
+    "reqService_textsinglelinely1b8lapz565lm7ev4": "195125143",
+    "reqService_datemcdedh790fl7ldmoy8qn": "2025-08-06T04:07:07.000Z",
+    "reqService_textmultilinely1at6xkl8t4yae4sz": "Renewal as travelling on 31st July and will be out of KSA during expiration",
+    "reqService_documentsmd4kb5pskvaz4cqvj6s": {
+      "document": {
+        "path": "./2533366791-visa-195125143.pdf",
+        "relativePath": "./2533366791-visa-195125143.pdf"
+      },
+      "label": "",
+      "name": "2533366791-visa-195125143.pdf",
+      "id": "documentmdlocnrz27cp35ppl3yj"
+    }
+  },
+  "uid": "EREVC-12444744",
+  "currentStep": {
+    "$oid": "6880848dce9c376ce2babb09"
+  }
+},
+{
+  "_id": {
+    "$oid": "688620a502c973181a49a9b0"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T12:50:45.421Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Request completed Successfully. Please find attached Exit Re-entry pdf file."
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "Exit Re-Entry Visa Issuance",
+      "document": "9845bef0-6ae8-11f0-8f77-1f3f362493e6.pdf",
+      "workflowDetails": {
+        "_id": {
+          "$oid": "688084a5ce9c376ce2babbd7"
+        },
+        "name": "Exit Re-Entry Visa Issuance",
+        "nameAr": "تأشيرة خروج وعودة"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": true,
+    "ratingTime": {
+      "$date": "2025-07-27T12:54:32.017Z"
+    },
+    "stars": 5
+  },
+  "initiatedBy": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:50:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:54:32.018Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T12:52:15.821Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "RIMA HAPPY AHMED"
+    },
+    {
+      "label": "Translated Resident Name",
+      "labelAr": "اسم المقيم المترجم",
+      "value": "ريمة أبي أحمد"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2533366791"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "201143783"
+    },
+    {
+      "label": "Visa Type",
+      "labelAr": "نوع التأشيرة",
+      "value": "متعدد"
+    },
+    {
+      "label": "Visa Duration",
+      "labelAr": "مدة التأشيرة",
+      "value": 60
+    },
+    {
+      "label": "Visa Return Before (Hijri)",
+      "labelAr": "العودة قبل (هجري)",
+      "value": "N/A"
+    },
+    {
+      "label": "Visa Return Before (Gregorian)",
+      "labelAr": "العودة قبل (ميلادي)",
+      "value": "N/A"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_checkboxlyla14an4h6ckb2rj0l": {
+      "valArr": [
+        {
+          "name": "I am currently in Saudi Arabia ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd7"
+        },
+        {
+          "name": "I confirm I have paid all traffic violations prior to the request of issuing this visa.",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [],
+          "_id": "6693886768e9b8dfce8a5cd8"
+        },
+        {
+          "name": "I don't have a active exit re-entry visa, if so please cancel prior to the request of issuing this visa ",
+          "nameAr": "",
+          "checked": true,
+          "disabled": false,
+          "sections": [
+            "visaInformationlyl99d8emroh2igol6",
+            "travelInformationmde9rc3ttmhbexrpyq"
+          ],
+          "_id": "6693886768e9b8dfce8a5cd9"
+        }
+      ],
+      "otherVal": ""
+    },
+    "reqService_REQUESTED_FOR_dataFetchinglyr87bz1r54i4976jdc": "68820f4ef710897f8197ceb3",
+    "reqService_dropdownlistm1626hlmww09c16x84o": {
+      "selectedValue": "Personal travel",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_dropdownlistm1626wmisp6q3pnjny": {
+      "selectedValue": "Multiple",
+      "otherVal": "",
+      "others": false
+    },
+    "reqService_datemde9fmtuhp5rgihcglj": "2025-07-31T04:07:07.000Z",
+    "reqService_datemde9h45j6rsocryxkw": "2025-08-17T04:07:07.000Z",
+    "reqService_datemde9holemqw7dw99ac": "2029-10-23T04:07:07.000Z",
+    "reqService_dropdownlistm16243f9gryxzjbehtu": {
+      "selectedValue": "60",
+      "otherVal": "",
+      "others": false
+    }
+  },
+  "uid": "EREVI-12521582",
+  "currentStep": {
+    "$oid": "688084a5ce9c376ce2babbf5"
+  }
+},
+{
+  "_id": {
+    "$oid": "688621c302c973181a49ca17"
+  },
+  "service": {
+    "$oid": "688084aece9c376ce2babcb7"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 300,
+  "dateCreated": {
+    "$date": "2025-07-27T12:55:31.045Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": "Request completed successfully. Please find attached Exit Re-entry pdf file."
+  },
+  "pendingSteps": [],
+  "attachments": [
+    {
+      "label": "Exit Re-Entry Visa Validation",
+      "document": "fd2ed8d0-6aeb-11f0-8f77-1f3f362493e6.pdf",
+      "workflowDetails": {
+        "_id": {
+          "$oid": "688084aece9c376ce2babc93"
+        },
+        "name": "Check visa validity (Reprint visa info)",
+        "nameAr": "Check visa validity (Reprint visa info)"
+      }
+    }
+  ],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084aece9c376ce2babc93"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": true,
+    "ratingTime": {
+      "$date": "2025-07-27T13:17:40.803Z"
+    },
+    "stars": 5
+  },
+  "initiatedBy": {
+    "$oid": "68861c3b02c973181a497b5a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "74834c4f-70cc-4a74-aeb5-b55f04b0e013",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T12:55:31.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:17:40.804Z"
+  },
+  "__v": 1,
+  "approvalStatus": "Approved",
+  "dateSubmitted": {
+    "$date": "2025-07-27T13:17:03.607Z"
+  },
+  "documents": {},
+  "integrationValues": {},
+  "muqeemRetryData": {},
+  "muqeemSuccessData": [
+    {
+      "label": "Resident Name",
+      "labelAr": "اسم المقيم",
+      "value": "RIMA HAPPY AHMED"
+    },
+    {
+      "label": "Iqama Number",
+      "labelAr": "رقم الإقامة",
+      "value": "2533366791"
+    },
+    {
+      "label": "Visa Number",
+      "labelAr": "رقم التأشيرة",
+      "value": "201143783"
+    }
+  ],
+  "noRecord": {},
+  "requestData": {
+    "reqService_REQUESTED_FOR_dataFetchinglyocud2pkkcs97x3njl": "68820f4ef710897f8197ceb3",
+    "reqService_textsinglelinelyocv2o95gue1qbfft2": "201143783"
+  },
+  "uid": "REREV-13170360",
+  "currentStep": {
+    "$oid": "688084aece9c376ce2babc95"
+  }
+},
+{
+  "_id": {
+    "$oid": "688626db02c973181a4a08e3"
+  },
+  "service": {
+    "$oid": "6880808d2174f8052ef0b915"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:17:15.248Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880808d2174f8052ef0b8f1"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:17:15.255Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886106d02c973181a48728a"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "3369c9a6-4f4d-4522-b327-199cfc6dab55",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:17:15.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:17:15.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886272802c973181a4a2260"
+  },
+  "service": {
+    "$oid": "68807f772174f8052ef0ae18"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:18:32.944Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "68807f772174f8052ef0adbe"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:18:32.950Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7b6b80-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:18:32.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:18:32.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886273102c973181a4a3090"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:18:41.313Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:18:41.318Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:18:41.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:18:41.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886275f02c973181a4a34ef"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:19:27.730Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:19:27.735Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:19:27.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:19:27.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886305802c973181a4a4e7f"
+  },
+  "service": {
+    "$oid": "688082f1ce9c376ce2bab825"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:57:44.762Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688082f1ce9c376ce2bab801"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:57:44.770Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c75c630-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:57:44.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:57:44.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688630d802c973181a4a512d"
+  },
+  "service": {
+    "$oid": "688082f1ce9c376ce2bab825"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T13:59:52.828Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688082f1ce9c376ce2bab801"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T13:59:52.835Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c75c630-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T13:59:52.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:59:52.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688634a602c973181a4a691d"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T14:16:06.505Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T14:16:06.511Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T14:16:06.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T14:16:06.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886360202c973181a4a6d4c"
+  },
+  "service": {
+    "$oid": "6880849cce9c376ce2babb84"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T14:21:54.882Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880849cce9c376ce2babb5e"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T14:21:54.888Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7948a0-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T14:21:54.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T14:21:54.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886370102c973181a4a70f3"
+  },
+  "service": {
+    "$oid": "6880848dce9c376ce2babb13"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T14:26:09.507Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880848dce9c376ce2babaf2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T14:26:09.514Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c76b090-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T14:26:09.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T14:26:09.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886391f02c973181a4a7526"
+  },
+  "service": {
+    "$oid": "6880808d2174f8052ef0b915"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T14:35:11.805Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880808d2174f8052ef0b8f1"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T14:35:11.809Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688219c716ab9a0aad6c2d5c"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "3369c9a6-4f4d-4522-b327-199cfc6dab55",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T14:35:11.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T14:35:11.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886408902c973181a4a7bfc"
+  },
+  "service": {
+    "$oid": "6880808d2174f8052ef0b915"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:06:49.165Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880808d2174f8052ef0b8f1"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:06:49.169Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "3369c9a6-4f4d-4522-b327-199cfc6dab55",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:06:49.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:06:49.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886417e02c973181a4a7f7f"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:10:54.086Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:10:54.092Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:10:54.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:10:54.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886445f02c973181a4a8410"
+  },
+  "service": {
+    "$oid": "6880848dce9c376ce2babb13"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:23:11.435Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "6880848dce9c376ce2babaf2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:23:11.441Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c76b090-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:23:11.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:23:11.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886449302c973181a4a87cf"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:24:03.489Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:24:03.495Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:24:03.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:24:03.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688644c802c973181a4a8b89"
+  },
+  "service": {
+    "$oid": "688084b8ce9c376ce2babd4a"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:24:56.399Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084b8ce9c376ce2babd35"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:24:56.404Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "cf94d570-a61e-42b4-bde1-cfdabd7207f7",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:24:56.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:24:56.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688648a102c973181a4aa177"
+  },
+  "service": {
+    "$oid": "688084c5ce9c376ce2babe07"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-27T15:41:21.971Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084c5ce9c376ce2babde2"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-27T15:41:21.978Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "6886342a02c973181a4a5382"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "d8bc8ff7-e958-4f1d-a9b0-3a72ff773a0d",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-27T15:41:21.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T15:41:21.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68871cc402c973181a4b0843"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-28T06:46:28.720Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-28T06:46:28.725Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-28T06:46:28.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T06:46:28.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68871d0a02c973181a4b08c6"
+  },
+  "service": {
+    "$oid": "688084a5ce9c376ce2babbff"
+  },
+  "relatedProject": {
+    "neomProject": false,
+    "projectName": "",
+    "neomSector": ""
+  },
+  "requestClass": 1,
+  "type": 0,
+  "user": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "business": null,
+  "dependent": null,
+  "statusCode": 100,
+  "dateCreated": {
+    "$date": "2025-07-28T06:47:38.585Z"
+  },
+  "status": {
+    "handledBy": [],
+    "notification": "pending",
+    "assigneeNotification": "pending",
+    "note": ""
+  },
+  "pendingSteps": [],
+  "attachments": [],
+  "systemGeneratedAttachments": [],
+  "periodic": null,
+  "workflowReference": {
+    "$oid": "688084a5ce9c376ce2babbd7"
+  },
+  "rating": {
+    "comment": "",
+    "files": [],
+    "firstOpen": false,
+    "ratingTime": {
+      "$date": "2025-07-28T06:47:38.595Z"
+    }
+  },
+  "initiatedBy": {
+    "$oid": "688215da16ab9a0aad6c0dd5"
+  },
+  "identifier": "INDIVIDUAL",
+  "isAnonymous": false,
+  "isCAFMRequest": false,
+  "additionalData": {
+    "allowAll": true,
+    "steps": [],
+    "files": []
+  },
+  "appType": "Requestor",
+  "expiryDate": null,
+  "iqamaIssuance": false,
+  "bulkRequest": false,
+  "requestsRef": [],
+  "serviceUniqueId": "6c7cf220-07dd-11f0-9e20-33f801fd5568",
+  "subForms": [],
+  "muqeemError": [],
+  "createdAt": {
+    "$date": "2025-07-28T06:47:38.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T06:47:38.596Z"
+  },
+  "__v": 0
+}]

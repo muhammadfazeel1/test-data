@@ -1,0 +1,1522 @@
+[{
+  "_id": {
+    "$oid": "66eac7e6f519ccc5edfe0273"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "85fdc8ed",
+        "app-key": "76cd80b52c8a84dc388f46928683d054",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac915bd8a27049fcc7fe7"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "85fdc8ed",
+        "app-key": "76cd80b52c8a84dc388f46928683d054",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237be4ea62df1ad5c29e16"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237c11ea62df1ad5c29e19"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237c1eed9a06eb38c6e88f"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237c4cea62df1ad5c29e1b"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237d2eed9a06eb38c6e8a3"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67237d6aed9a06eb38c6e8a6"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "connect ETIMEDOUT 185.131.97.218:443",
+    "name": "Error",
+    "stack": "Error: connect ETIMEDOUT 185.131.97.218:443\n    at AxiosError.from (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:837:14)\n    at RedirectableRequest.handleRequestError (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3029:25)\n    at RedirectableRequest.emit (node:events:513:28)\n    at eventHandlers.<computed> (/data/app/neomapps/authority-app/node_modules/follow-redirects/index.js:14:24)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at ClientRequest.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at ClientRequest.emit (node:events:513:28)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "45",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem-dev-api.apps.devocp4.elm.sa:443/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"NEOM2\",\"password\":\"Aa@12345678\"}"
+    },
+    "code": "ETIMEDOUT",
+    "status": null
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b54c42f7f74f15e9d22b5"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "54",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/authenticate",
+      "method": "post",
+      "data": "{\"username\":\"1098113598\",\"password\":\"Bushra@NEOM2023\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e45cd784e280096fe7547"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e483ea6ef975e352cb3c9"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e58ba94c61c336bd79dce"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e596a94c61c336bd7aa08"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e6f8e269e3d6d6345a868"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e715efa6a480a86a4c963"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7160269e3d6d6345b4a1"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7161fa6a480a86a4d59b"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7162fa6a480a86a4e1d3"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7164269e3d6d6345c0d9"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e71fe269e3d6d6345cd14"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e73ec65042c43e382852b"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8b217a71fc6eebef466d"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8c1c7a71fc6eebef589a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8c337a71fc6eebef64d2"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8c387a71fc6eebef710a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8c3b7a71fc6eebef7d42"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8c8e7a71fc6eebef897a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8edd2ca78f4ea85b76bf"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8ef5bb7e5318438490b3"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f8f54bb7e531843849cee"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f9037a08386247f1589d0"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f9040a08386247f159608"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f9049a08386247f15a240"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f90e8a08386247f15ae7a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f91cc40f5f6325fe4f2c6"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f91d040f5f6325fe4fefe"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f92a85e4f47823f67c69a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f9399f432d1f997398de1"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686f9447dcfdd379e4968aa7"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fa36e51a6210116829cca"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fa3c951a621011682a904"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fa43b51a621011682b541"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fa56351a621011682c17d"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fad797f98b87d194c3dc0"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "createdAt": {
+    "$date": "2025-07-10T12:09:29.529Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-10T12:09:29.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fb7ef7f98b87d194c511a"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "createdAt": {
+    "$date": "2025-07-10T12:54:07.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-10T12:54:07.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686fbc1aa2bbbaa7850d9497"
+  },
+  "identifier": "Muqeem",
+  "name": "MUQEEM_SESSION_ERROR",
+  "code": 403,
+  "params": [],
+  "createdAt": {
+    "$date": "2025-07-10T13:11:54.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-10T13:11:54.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885de2c02c973181a44e38e"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 403",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 403\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYwNDUyN30.clscqI49-EIwE2Y4evDVlBh1lX3f9iITZTK0M0xOna4oJMsiLv_mMU0VnlZjKDDncDybZQ8WYbkNwWR2TJ7YyQ",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "71",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/extend",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2530762372\",\"visaNumber\":\"198248131\",\"visaDuration\":30}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 403
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T08:07:08.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:07:08.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6885e27b02c973181a464b01"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 403",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 403\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYwNTYzMX0.fpvh4xnraX3kBGhEdzCWoRDTC9auxhrWaoAtZHpMI-1jTeCo5li21z9F5ABYy4X59AHJxEyJ56pqkOgufPvqow",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "71",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/extend",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2581333271\",\"visaNumber\":\"201064592\",\"visaDuration\":30}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 403
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T08:25:31.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T08:25:31.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860e1602c973181a480d37"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 400",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 400\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYxNjY0NH0.E5BBgL34caAtx8ZBhc-mhZNaBL28jMYGY4WgHFN0Fl9GyWO1tGOajmX4U6WR43EyO-sIPhw8FZdDd9OgV3lvtQ",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "53",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/reprint",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2535536532\",\"visaNumber\":\"201140325\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 400
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T11:31:34.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:31:34.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68860e2e02c973181a480d4f"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 400",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 400\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYxNjY0NH0.E5BBgL34caAtx8ZBhc-mhZNaBL28jMYGY4WgHFN0Fl9GyWO1tGOajmX4U6WR43EyO-sIPhw8FZdDd9OgV3lvtQ",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "53",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/reprint",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2535536532\",\"visaNumber\":\"201140325\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 400
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T11:31:58.025Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:31:58.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886101c02c973181a4861ce"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYxNjY0NH0.E5BBgL34caAtx8ZBhc-mhZNaBL28jMYGY4WgHFN0Fl9GyWO1tGOajmX4U6WR43EyO-sIPhw8FZdDd9OgV3lvtQ",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "53",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/reprint",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2535536532\",\"visaNumber\":\"201140325\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T11:40:12.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T11:40:12.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861cc802c973181a498a9b"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 400",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 400\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "59",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/issue",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"visaDuration\":90,\"visaType\":2}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 400
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:34:16.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:34:16.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861cdf02c973181a498af4"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 400",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 400\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "59",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/issue",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"visaDuration\":60,\"visaType\":2}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 400
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:34:39.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:34:39.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861f3f02c973181a498ea7"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "55",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/cancel",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"erVisaNumber\":\"195125143\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:44:47.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:44:47.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861f4802c973181a498edd"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "55",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/cancel",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"erVisaNumber\":\"195125143\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:44:56.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:44:56.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861f6002c973181a498f14"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "55",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/cancel",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"erVisaNumber\":\"195125143\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:45:20.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:45:20.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68861ffa02c973181a498f4b"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 401",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 401\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMDU1NX0.FR3TIE-1IafSkv0jltwvAcrIrsJ6r2a1DRTI44WeslQxJ9pHUPOFtqCwRuS_pwBUHlc3bE2pagG5bvKIns6R7Q",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "55",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/cancel",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"erVisaNumber\":\"195125143\"}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 401
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:47:54.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:47:54.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886210b02c973181a49abc3"
+  },
+  "identifier": "Muqeem",
+  "statusCode": 200,
+  "data": {
+    "message": "Request failed with status code 400",
+    "name": "AxiosError",
+    "stack": "AxiosError: Request failed with status code 400\n    at settle (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:1913:12)\n    at IncomingMessage.handleStreamEnd (/data/app/neomapps/authority-app/node_modules/axios/dist/node/axios.cjs:3008:11)\n    at /data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:55\n    at AsyncLocalStorage.run (node:async_hooks:330:14)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AsyncLocalStorageContextManager.js:33:40)\n    at SentryContextManager.with (/data/app/neomapps/authority-app/node_modules/@sentry/opentelemetry/build/cjs/index.js:1376:24)\n    at IncomingMessage.contextWrapper (/data/app/neomapps/authority-app/node_modules/@opentelemetry/context-async-hooks/build/src/AbstractAsyncHooksContextManager.js:50:32)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+    "config": {
+      "transitional": {
+        "silentJSONParsing": true,
+        "forcedJSONParsing": true,
+        "clarifyTimeoutError": false
+      },
+      "adapter": [
+        "xhr",
+        "http"
+      ],
+      "transformRequest": [
+        null
+      ],
+      "transformResponse": [
+        null
+      ],
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "maxBodyLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json",
+        "app-id": "0bbd7acf",
+        "app-key": "bf79473ea1ce05b422b2974d3701f4e5",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhemFtXzE5NjkiLCJhdXRoIjoiQVBJX0NBTkNFTF9FUl9WSVNBLEFQSV9DQU5DRUxfRkVfVklTQSxBUElfSVNTVUVfRVJfVklTQSxBUElfSVNTVUVfRkVfVklTQSxBUElfSVNTVUVfSVFBTUEsQVBJX1JFTkVXX0lRQU1BLEFQSV9SRVBSSU5UX0VSX1ZJU0EsQVBJX1VQREFURV9JTkZPUk1BVElPTiIsIm1vaU51bWJlciI6IjcwMDc2NDQyNDMiLCJvcGVyYXRvcklkIjoiMTA5NDA2MDcwMiIsImV4cCI6MTc1MzYyMTQ1MH0.NcWGZYKAcfJZOob0nAC68qavDyEkp0iDHHoYj3yj5AfXGCq0Bs9IjuhOPxKPWI8qpmcq76vgPZAAcWHB8zeK3A",
+        "User-Agent": "axios/1.6.0",
+        "Content-Length": "59",
+        "Accept-Encoding": "gzip, compress, deflate, br"
+      },
+      "url": "https://muqeem.api.elm.sa/api/v1/exit-reentry/issue",
+      "method": "post",
+      "data": "{\"iqamaNumber\":\"2533366791\",\"visaDuration\":90,\"visaType\":2}"
+    },
+    "code": "ERR_BAD_REQUEST",
+    "status": 400
+  },
+  "message": "Record fetched successfully.",
+  "createdAt": {
+    "$date": "2025-07-27T12:52:27.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T12:52:27.802Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "mongoose": "^8.16.4",
+    "mongoose-delete": "^1.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
