@@ -247,6 +247,6 @@ userSchema.plugin(mongoose_delete, {
   overrideMethods: ["count", "find", "findOne", "findOneAndUpdate", "update"],
 });
 
-const SAPUser = mongoose.model("SAPUserNew", userSchema);
+const SAPUser = mongoose.model("SAPUser", userSchema);
 
 module.exports = SAPUser;

@@ -59,7 +59,7 @@ async function importExcelToMongo() {
     });
     console.log("✅ Connected to MongoDB");
 
-    const filePath = path.join(__dirname, "./SAP & Muqeem Data 7_24_2025 v1.4 copy.xlsx"); // adjust filename
+    const filePath = path.join(__dirname, "./Copy of PSCportalreport-13082025.xlsx"); // adjust filename
     const workbook = xlsx.readFile(filePath);
     const sheet = workbook.Sheets[workbook.SheetNames[0]];
     const rows = xlsx.utils.sheet_to_json(sheet, { defval: "" });

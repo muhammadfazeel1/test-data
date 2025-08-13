@@ -1,0 +1,94 @@
+const namePools = {
+  arabic: {
+    first: ['Ahmed', 'Fatima', 'Hassan', 'Layla', 'Yousef', 'Amina'],
+    last: ['Al-Fulan', 'El-Zahrani', 'Bin Saeed', 'Al-Qahtani']
+  },
+  european: {
+    first: ['John', 'Emma', 'Oliver', 'Sophie', 'Liam', 'Charlotte'],
+    last: ['Smith', 'Johnson', 'Brown', 'Taylor', 'Anderson']
+  },
+  indian: {
+    first: ['Rahul', 'Priya', 'Amit', 'Sneha', 'Arjun', 'Kiran'],
+    last: ['Sharma', 'Patel', 'Reddy', 'Gupta', 'Verma']
+  }
+};
+
+function getConsistentRandomName() {
+  const regions = Object.keys(namePools);
+  const region = regions[Math.floor(Math.random() * regions.length)];
+  const first = namePools[region].first[Math.floor(Math.random() * namePools[region].first.length)];
+  const last = namePools[region].last[Math.floor(Math.random() * namePools[region].last.length)];
+  return { firstName: first, lastName: last, fullName: `${first} ${last}` };
+}
+const iqamaOptions = ['2123123123', '2138453036'];
+function getRandomIqamaNumber() {
+  return iqamaOptions[Math.floor(Math.random() * iqamaOptions.length)];
+}
+
+const excludedEmails = [
+  'abdulrazaq.alabdulrazaq@neom.com',
+  'muhammed.fazeel@neom.com',
+  'mohamed.meeran@neom.com',
+  'abdullah.flefil@neom.com',
+  'norah.alrumaih@neom.com',
+  'ahmad.abdelhafez@neom.com',
+  'bara.zaidan@neom.com',
+  'taqiuddin.mohammed@neom.com',
+  'renad.shafaay@neom.com',
+  'mohsin.falak@neom.com',
+  'tariq.almazyad@neom.com',
+  'mohammed.alyosef@neom.com',
+  'abdulaziz.alhuwayshan@neom.com',
+  'mohamed.abdelgadir@neom.com',
+  'mahmoud.sayed@neom.com',
+  'ghadi.alshehri@neom.com',
+  'alshymaa.bastawisy@neom.com'
+];
+
+router.post('/anonymizeSAPUsers', async (req, res, next) => {
+  try {
+    let counter = 1;
+    let skipped = 0;
+
+    const users = await SAPUser.find({});
+
+    for (const user of users) {
+      if (excludedEmails.includes(user.email)) {
+        skipped++;
+        continue;
+      }
+
+      const dummyEmail = `dummy${counter}@neom.com`;
+      const { firstName, lastName, fullName } = getConsistentRandomName();
+      const iqamaNumber = getRandomIqamaNumber();
+
+      const result = await SAPUser.updateOne(
+        { _id: user._id },
+        {
+          $set: {
+            email: dummyEmail,
+            firstName,
+            lastName,
+            managerName: fullName,
+            managerEmail: dummyEmail,
+            sectorHeadName: fullName,
+            sectorHeadEmail: dummyEmail,
+            iqamaNumber
+          }
+        }
+      );
+
+      counter++;
+    }
+
+    res.locals.res_body = {
+      statusCode: 200,
+      responseMessage: ['DASHBOARD_TEAM_RETRIEVE_SUCCESS_MESSAGE'],
+      data: { updatedCount: counter - 1, skippedCount: skipped }
+    };
+    return next();
+  } catch (e) {
+    console.error(e);
+    return next(e);
+  }
+});
