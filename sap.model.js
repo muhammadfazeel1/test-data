@@ -1,5 +1,5 @@
-const mongoose = require("mongoose");
-const mongoose_delete = require("mongoose-delete");
+const mongoose = require('mongoose');
+const mongoose_delete = require('mongoose-delete');
 
 // for future incase of arabic handling please use Ar for keys like teamNameAr
 
@@ -7,228 +7,239 @@ const userSchema = new mongoose.Schema(
   {
     employeeNumber: {
       type: String,
-      required: false,
+      required: false
     },
     firstName: {
       type: String,
-      required: false,
+      required: false
     },
     secondName: {
       type: String,
-      required: false,
+      required: false
     },
     thirdName: {
       type: String,
-      required: false,
+      required: false
     },
     lastName: {
       type: String,
-      required: false,
+      required: false
     },
     firstNameAr: {
       type: String,
-      required: false,
+      required: false
     },
     secondNameAr: {
       type: String,
-      required: false,
+      required: false
     },
     thirdNameAr: {
       type: String,
-      required: false,
+      required: false
     },
     lastNameAr: {
       type: String,
-      required: false,
+      required: false
     },
     gender: {
       type: String,
-      required: false,
+      required: false
     },
     nationality: {
       type: String,
-      required: false,
+      required: false
     },
     maritalStatus: {
       type: String,
-      required: false,
+      required: false
     },
     religion: {
       type: String,
-      required: false,
+      required: false
     },
     birthCountry: {
       type: String,
-      required: false,
+      required: false
     },
     email: {
       type: String,
-      required: false,
+      required: false
     },
     phoneNO: {
       type: String,
-      required: false,
+      required: false
     },
     sector: {
-      type: String,
+      type: String
     },
     sectorCode: {
-      type: String,
+      type: String
     },
     sectorHead: {
-      type: String,
+      type: String
     },
     positionName: {
       type: String,
-      required: false,
+      required: false
     },
     division: {
       type: String,
-      required: false,
+      required: false
     },
     divisionCode: {
       type: String,
-      required: false,
+      required: false
     },
     divisionHeadOfUnit: {
       type: String,
-      required: false,
+      required: false
     },
     department: {
       type: String,
-      required: false,
+      required: false
     },
     departmentCode: {
       type: String,
-      required: false,
+      required: false
     },
     constCenterAccount: {
       type: String,
-      required: false,
+      required: false
     },
     constCenterAccountCode: {
       type: String,
-      required: false,
+      required: false
     },
     contractType: {
       type: String,
-      required: false,
+      required: false
     },
     managerID: {
       type: String,
-      required: false,
+      required: false
     },
     managerName: {
-      type: String,
+      type: String
     },
     managerEmail: {
       type: String,
-      required: false,
+      required: false
     },
     employeeStatus: {
       type: String,
       required: false,
-      default: "Active",
+      default: 'Active'
     },
     jobTitle: {
       type: String,
-      required: false,
+      required: false
     },
     hireDate: {
       type: String,
-      required: false,
+      required: false
     },
     separationDate: {
       type: Date,
-      required: false,
+      required: false
     },
     iqamaNumber: {
-      type: String,
+      type: String
     },
     iqamaExpiry: {
-      type: String,
+      type: String
     },
     passportNo: {
-      type: String,
+      type: String
     },
     passportIssuanceCountry: {
-      type: String,
+      type: String
     },
     passportExpiry: {
-      type: String,
+      type: String
     },
     workVisa: {
-      type: String,
+      type: String
     },
     SNI: {
-      type: String,
+      type: String
     },
     passports: {
       type: mongoose.Schema.Types.Mixed,
-      required: false,
+      required: false
     },
     passportExpiries: {
       type: mongoose.Schema.Types.Mixed,
-      required: false,
+      required: false
     },
     passportCountries: {
       type: mongoose.Schema.Types.Mixed,
-      required: false,
+      required: false
     },
     validationStatus: {
       type: String,
-      default: "PASS",
+      default: 'PASS'
     },
     companyCode: {
-      type: String,
+      type: String
     },
     companyName: {
-      type: String,
+      type: String
     },
     sectorHeadName: {
-      type: String,
+      type: String
     },
     sectorHeadEmail: {
-      type: String,
+      type: String
     },
     contractEndDate: {
-      type: String,
+      type: String
     },
     contractPeriod: {
-      type: String,
+      type: String
     },
     probationPeriod: {
-      type: String,
+      type: String
     },
     standardWeeklyHours: {
-      type: String,
+      type: String
     },
     locationGroup: {
-      type: String,
+      type: String
     },
     workLocation: {
-      type: String,
+      type: String
     },
     lastWorkingDay: {
-      type: String,
+      type: String
     },
     leavingReason: {
-      type: String,
+      type: String
     },
     presentAddress: {
-      type: String,
+      type: String
     },
     muqeemPassportExpiry: {
       type: String, // or Date
-      required: false,
+      required: false
     },
     muqeemIqamaIssueDate: {
       type: String, // or Date
-      required: false,
+      required: false
     },
+    muqeemName: { type: String },
+    muqeemExitReEntryOutSideOfKingdom: { type: String }, // keep exact key you asked for
+    muqeemExitReEntryStatus: { type: String },
+    muqeemExitReEntryVisaDuration: { type: String },
+    muqeemExitReEntryVisaNumber: { type: String },
+    muqeemExitReEntryVisaType: { type: String },
+    muqeemExitReEntryVisaIssuanceDate: { type: String },
+    muqeemExitReEntryVisaExpiryDate: { type: String },
+    muqeemNationality: { type: String },
+    muqeemJobTitle: { type: String },
+    muqeemExitReEntryVisaIssuePlace: { type: String }
   },
   {
-    timestamps: true,
+    timestamps: true
   }
 );
 
@@ -244,9 +255,9 @@ userSchema.methods.toJSON = function () {
 userSchema.plugin(mongoose_delete, {
   deletedAt: true,
   deletedBy: true,
-  overrideMethods: ["count", "find", "findOne", "findOneAndUpdate", "update"],
+  overrideMethods: ['count', 'find', 'findOne', 'findOneAndUpdate', 'update']
 });
 
-const SAPUser = mongoose.model("SAPUser", userSchema);
+const SAPUser = mongoose.model('updatedRecordsNotMuq_New', userSchema);
 
 module.exports = SAPUser;
